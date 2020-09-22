@@ -32,7 +32,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bce7207c-134f-4a61-90bd-fb9cdccc245b" name="Default Changelist" comment="" />
+    <list default="true" id="bce7207c-134f-4a61-90bd-fb9cdccc245b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/object.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/object.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/promise.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/promise.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/promise.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/promise.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +84,8 @@
       <updated>1600660421444</updated>
       <workItem from="1600660423357" duration="4318000" />
       <workItem from="1600670836261" duration="5164000" />
-      <workItem from="1600681122777" duration="302000" />
+      <workItem from="1600681122777" duration="1929000" />
+      <workItem from="1600735407625" duration="12499000" />
     </task>
     <servers />
   </component>
@@ -97,5 +103,17 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/dist/promise.js</url>
+          <line>36</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

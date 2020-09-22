@@ -2,7 +2,8 @@
 
 interface IUser {
   name: string;
-  age: number
+  age: number;
+  ulti?: string
 }
 
 let customer: IUser = {
@@ -12,9 +13,10 @@ let customer: IUser = {
 
 console.log(customer);
 
- customer = {
+  customer = {
   name: 'Anna',
-   age: 20
+   age: 20,
+    ulti: "active"
 };
  console.log(customer);
 
